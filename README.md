@@ -1,16 +1,41 @@
-### Hi there 👋
+ ### 👋 Hi there, I'm Mauricio
+ 
+ I love to develop awesome apps to solve people problems.
 
-<!--
-**mrodrigs/mrodrigs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Currently working as Frontend Developer at @Gobots.ai**
 
-Here are some ideas to get you started:
+```javascript
+const mauricio = {
+  askMeAbout: ['anime', 'developing', 'games', 'music', 'sneakers'],
+  code: [CSS, HTML, JAVASCRIPT],
+  techs: {
+    backend: {
+      enthusiast: true,
+      javascript: ['express', 'nodejs', 'typescript'],
+    },
+    frontend: {
+      inLove: true,
+      javascript: [
+        'css3',
+        'cypress',
+        'eslint',
+        'hooks',
+        'html5',
+        'jest',
+        'nextjs',
+        'reactjs',
+        'react-native',
+        'redux',
+        'styled-components',
+        'typescript',
+      ],
+    },
+    git: ['gitflow', 'github flow', 'gitlab'],
+    other: ['adobexd', 'docker', 'figma', 'scrum'],
+  },
+  website: 'mrodrigues.dev',
+};
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+export default mauricio;
+
+```
