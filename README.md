@@ -2,7 +2,7 @@
  
  I love to develop awesome apps to solve people problems.
 
-**Currently working as Frontend Developer at @Gobots.ai**
+**Currently working as Frontend Developer @ gobots.ai**
 
 ```javascript
 const mauricio = {
