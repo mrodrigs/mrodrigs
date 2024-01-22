@@ -1,8 +1,4 @@
  ### 👋 Hi there, I'm Mauricio
- 
- I love to develop awesome apps to solve people problems.
-
-**Currently working as Frontend Developer @ gobots.ai**
 
 ```javascript
 const mauricio = {
